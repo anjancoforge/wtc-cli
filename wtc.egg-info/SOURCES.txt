@@ -1,0 +1,8 @@
+setup.py
+wtc.py
+wtc.egg-info/PKG-INFO
+wtc.egg-info/SOURCES.txt
+wtc.egg-info/dependency_links.txt
+wtc.egg-info/entry_points.txt
+wtc.egg-info/requires.txt
+wtc.egg-info/top_level.txt
