@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.py
+tests/test_basic.py
+wtc/__init__.py
+wtc/main.py
+wtc_cli.egg-info/PKG-INFO
+wtc_cli.egg-info/SOURCES.txt
+wtc_cli.egg-info/dependency_links.txt
+wtc_cli.egg-info/entry_points.txt
+wtc_cli.egg-info/requires.txt
+wtc_cli.egg-info/top_level.txt
